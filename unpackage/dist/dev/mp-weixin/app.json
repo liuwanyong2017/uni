@@ -8,12 +8,13 @@
   "subPackages": [],
   "window": {
     "navigationBarTextStyle": "black",
-    "navigationBarTitleText": "uni-app",
-    "navigationBarBackgroundColor": "#F8F8F8",
+    "navigationBarTitleText": "钱大妈uni-app",
+    "navigationBarBackgroundColor": "#F83333",
     "backgroundColor": "#F8F8F8"
   },
   "tabBar": {
     "selectedColor": "#FB090A",
+    "iconWidth": "1.5em",
     "list": [
       {
         "pagePath": "pages/home/home",
